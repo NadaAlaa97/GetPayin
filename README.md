@@ -1,16 +1,6 @@
 # get_payin
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/dfc18715-1410-48e8-8bda-7461e344a15b)
+![2](https://github.com/user-attachments/assets/af903678-a2fc-42aa-b7a1-016af6f855de)
+![3](https://github.com/user-attachments/assets/113ec171-2598-4097-95cd-4be41788987f)
+![4](https://github.com/user-attachments/assets/66a2c4d1-aa32-4132-af11-89186139bc76)
